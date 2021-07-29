@@ -1,0 +1,98 @@
+
+.row {
+    padding: 30px;
+    padding-top: 10px;
+}
+.column {
+    float: left;
+     
+}
+.left{
+    width: 25%;
+  
+}
+.middle{
+    width: 25%;
+}
+.right{
+    width: 50%;
+}
+button{
+   width: 130px;
+   height: 55px;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+button:hover{
+    width: 150px;
+   height: 60px;
+}
+.inpu{
+    width: 65%;
+    height: 55px;
+    margin-left: 200px;
+    margin-top: 5%;
+}
+
+.cart{
+    background-color: rgb(255, 123, 123);
+    margin-left: 32%;
+    margin-top: 20px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 10px 5px 5px rgb(161, 67, 64);
+    
+}
+.cart:hover{
+    background-color: rgb(80, 95, 95) ;
+    color: white;
+    box-shadow: 10px 5px 5px rgb(0, 146, 146);
+}
+.login{
+    margin-left: 21%;
+    background-color: rgb(228, 227, 227);
+    box-shadow: 10px 5px 5px rgb(136, 130, 130);
+    border: rgb(0, 0, 0);
+}
+.login:hover{
+    
+    
+    background-color: rgb(80, 95, 95);
+    color: white;
+    box-shadow: 10px 5px 5px rgb(0, 146, 146);
+}
+.inpu{
+    border: none;
+    background-color:rgb(73, 73, 73);
+    border-radius: 30px;
+    color: blanchedalmond;
+    box-shadow: 10px 5px 5px rgb(159, 163, 163);
+    
+}
+.inpu:hover{
+    background-color:rgb(201, 198, 198);
+    box-shadow: 10px 5px 5px rgb(78, 87, 87);
+    width: 68%;
+    height: 58px;
+    margin-left: 180px;
+    margin-top: 4%;
+}
+.simg{
+    margin-top: 20px;
+    width: 300px;
+    height: 180px;
+    box-shadow: 10px 10px 10px rgb(138, 141, 141);
+}
+.simg:hover{
+    margin-top: 15px;
+    width: 320px;
+    height: 200px;
+    box-shadow: 10px 10px 10px rgb(180, 137, 141);
+}
+h1{
+    color: rgb(255, 30, 0);
+    font-size: 36px;
+    text-shadow: 4px 4px 2px rgb(238, 198, 198);
+}
+

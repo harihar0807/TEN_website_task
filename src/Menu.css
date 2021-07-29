@@ -1,0 +1,362 @@
+.row{
+    padding: 30px;
+    padding-top: 10px;
+}
+.column{
+    float: left;
+    
+
+}
+.ll{
+    margin-left: 10%;
+    width: 20%;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(202, 201, 201);   
+}
+.ll:hover{
+    margin-left: 12%;
+    width: 23%;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(163, 207, 163);   
+}
+
+.lll{
+    width: 20%;
+    text-align: center;
+   
+    box-shadow: 5px 5px 5px rgb(202, 201, 201);
+}
+.lll:hover{
+    width: 22%;
+    text-align: center;
+   
+    box-shadow: 5px 5px 5px rgb(163, 207, 163);   
+}
+.lf{
+    width: 20%;
+    text-align: center;
+    
+    box-shadow: 5px 5px 5px rgb(202, 201, 201);
+}
+.lf:hover{
+    width: 22%;
+    text-align: center;
+   
+    box-shadow: 5px 5px 5px rgb(163, 207, 163);   
+}
+.lff{
+    width: 20%;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(202, 201, 201);
+    
+}
+.lff:hover{
+    width: 22%;
+    text-align: center;
+   
+    box-shadow: 5px 5px 5px rgb(163, 207, 163);   
+}
+button{
+    width: auto;
+    background-color: white;
+    border: none;
+}
+.fimg{
+    margin-left: 30px;
+    margin-top: 80px;
+    background-image: url("https://images.unsplash.com/photo-1519217651866-847339e674d4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80");
+    background-repeat: no-repeat;
+    width: 1280px;
+    height: 1050px;
+}
+
+.say1{
+    text-align: center;
+   
+    padding: 70px;
+    padding-top: 750px;
+    color: rgb(241, 200, 137);
+    font-size: 80px;
+    text-shadow: 3px 3px 3px rgb(248, 247, 227);
+}
+.img2{
+    background-color: rgb(243, 75, 75);
+    margin: 40px;
+}
+.scolumn{
+    float: left;
+    text-align: center;
+    background-color: rgb(231, 46, 46);
+    height: 700px;
+}
+.sleft{
+    width: 50%;
+    height: 500px;
+    
+}
+.sright{
+    width: 50%;
+    height: 500px;
+}
+.ssimg{
+    width: 400px;
+    height: 300px;
+    padding: 90px;
+    border-radius: 20px;
+}
+.say2{
+    text-align: center;
+   
+    padding: 70px;
+    padding-bottom: 0px;
+    padding-top: 50px;
+    color: rgb(34, 34, 34);
+    font-size: 45px;
+    text-shadow: 2px 2px 2px rgb(248, 247, 227);  
+}
+.learnmore{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(78, 77, 77);   
+
+}
+.img3{
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/low-section-of-man-walking-on-road-royalty-free-image-1622129893.jpg?crop=1.00xw:0.752xh;0,0.192xh&resize=1200:*");
+    width: 1200px;
+    height: 500px;
+    margin-top: 600px;
+    margin-left: 80px;
+}
+.welcome{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px rgb(248, 247, 227);  
+}
+.say3{
+    text-align: center;
+    padding-top: 70px;
+    color: rgb(245, 207, 149);
+    font-size: 80px;
+    text-shadow: 4px 4px 2px rgb(248, 247, 227);  
+}
+.join{
+    margin-left: 450px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(78, 77, 77);  
+    background-color: rgb(6, 255, 201);
+    color: rgb(78, 75, 75);
+    font-size: 20px;
+}
+.join:hover{
+    margin-left: 400px;
+    border-radius: 20px;
+    width: 450px;
+    box-shadow: 5px 5px 5px rgb(78, 77, 77);  
+    background-color: rgb(204, 241, 233);
+    color: rgb(3, 3, 3);
+    font-size: 22px;
+}
+.img4{
+    padding: 50px;
+}
+
+.column4{
+    float: left;
+    height: 500px;
+    background-color: rgb(248, 29, 66);;
+    
+    
+}
+.left4{
+    width: 65%;
+    text-align: center;
+    font-size: 27px;
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/k-9-jj-2389b.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=a4602d025c99830e02c99bfd7f716ab8");
+    
+}
+.right4{
+    width: 35%;
+    font-size: 28px;
+    font-family: Arial;
+    color: white;
+    
+    text-align: center;
+}
+.say5{
+    padding: 30px;
+}
+.explore{
+    width: 250px;
+    height: 70px;
+    margin-top: 25px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    font-size: 25px;
+}
+.explore:hover{
+    width: 270px;
+    height: 70px;
+    margin-top: 20px;
+    background-color: rgb(0, 241, 181);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    font-size: 26px;
+}
+.say4{
+    color: red;
+    text-align: left;
+    font-size: 55px;
+    margin-left: 180px;
+    text-shadow: 4px 4px 2px rgb(248, 247, 227); 
+
+}
+.img5{
+    padding: 50px;
+}
+.column5{
+    float: left;
+    height: 400px;
+    
+    background-color: rgb(248, 29, 66);
+}
+.left5{
+    width: 45%;
+   background-image: url("https://static.wixstatic.com/media/44a6c2_f9b99e49448943108aa1a3273b1c356b~mv2.jpg/v1/fill/w_595,h_450,al_c,q_80,usm_0.66_1.00_0.01/44a6c2_f9b99e49448943108aa1a3273b1c356b~mv2.webp");
+}
+.middle5{
+    width: 27%;
+    text-align: center;
+   
+}
+.right5{
+    width: 28%;
+    background-image: url("https://static.wixstatic.com/media/11062b_557462ab123440368447ab18a66043e5~mv2.jpg/v1/fill/w_297,h_450,al_c,q_80,usm_0.66_1.00_0.01/11062b_557462ab123440368447ab18a66043e5~mv2.webp");
+    
+}
+.say6{
+    font-size: 50px;
+    color: white;
+    text-decoration-line: underline;
+    font-style: oblique;
+}
+.img6{
+    padding: 50px;
+    
+}
+.column6{
+    float: left;
+    height: 400px;
+    background-color: rgb(248, 29, 66);
+}
+.left6{
+    width: 53%;
+    text-align: center;
+    
+}
+.right6{
+    width: 47%;
+    background-image: url("https://static.wixstatic.com/media/a3ac449c86364dd8999922949876d09e.jpg/v1/fill/w_595,h_444,al_c,q_80,usm_0.66_1.00_0.01/a3ac449c86364dd8999922949876d09e.webp");
+}
+
+.sayy6{
+    padding: 30px;
+    font-style: normal;
+}
+.img7{
+    padding: 50px;
+   
+}
+.say7{
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+    padding-top: 1000px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+.img8{
+    padding: 50px;
+}
+.column8{
+    float: left;
+    height: 400px;
+    text-align: center;
+}
+.left8{
+    width: 33%;
+
+    
+}
+.middle8{
+    width: 34%;
+    
+    
+}
+.right8{
+    width: 33%;
+    
+}
+.say8{
+    margin-top: 5px;
+    font-size: 35px;
+    text-decoration-line: underline;
+    
+}
+p{
+    padding: 45px;
+    padding-top: 0px;
+    font-size: 18px;
+    
+}
+.slider {
+    background-image: url("https://cdn.wallpapersafari.com/62/19/wrxRb2.jpg");
+    margin-top: 50px;
+    padding: 50px;
+    width: 1200px;
+    height: 350px;
+    display: flex;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory; 
+    scroll-behavior: smooth;
+  }
+  .slide {
+    width: 1200px;
+    flex-shrink: 0;
+    height: 100%;
+  }
+  .testimonials{
+      text-align: center;
+      margin-top: 650px;
+      text-decoration-line: underline;
+      font-size: 40px;
+      color: rgb(211, 62, 62);
+  }
+  .ppp{
+      color: white;
+      text-align: center;
+      padding: 50px;
+      padding-top: 20px;
+      font-size: 30px;
+  }
+  .img9{
+      padding: 50px;
+      background-image: url("https://www.digitalprimates.net/wp-content/uploads/2020/04/people-near-table-3184639.jpg");
+      height: 500px;
+      margin-left: 50px;
+      margin-right: 30px;
+      text-align: center;
+  }
+  .say9{
+      color: rgb(241, 22, 22);
+      font-size: 80px;
+      padding: 10px;
+      margin-top: 200px;
+      text-shadow: 4px 4px 2px rgb(248, 247, 227); 
+  }
+ 
+
+
+
