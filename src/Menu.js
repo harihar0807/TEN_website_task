@@ -10,10 +10,10 @@ function Menu() {
                        <h2>Home</h2>
                 </div>
                 <div className="column lll">
-                       <h2>Online Courses</h2>
+                       <a href="https://www.entrepreneurshipnetwork.net/courses"><h2>Online Courses</h2></a>
                 </div>
                 <div className="column lf">
-                       <h2>We are Hiring</h2>
+                      <a href="https://www.entrepreneurshipnetwork.net/hiring" ><h2>We are Hiring</h2></a> 
                 </div>
                 <div className="column lff">
                        <h2>More</h2>
@@ -30,7 +30,7 @@ function Menu() {
                   <div className="scolumn sleft">
                        <h2>About Us</h2>
                        <h1 className="say2">Learning Together From The Comfort of Your Home</h1>
-                       <button className="learnmore">Learn More</button>
+                       <a href="https://www.entrepreneurshipnetwork.net/about"><button className="learnmore">Learn More</button></a>
                   </div>
                   <div className="scolumn sright">
                          <img 
@@ -44,7 +44,7 @@ function Menu() {
                   
                   <h2 className="welcome"><i>Welcome to</i></h2>
                   <h2 className="say3"><i>THE NEXT BIG THING</i></h2>
-                  <button className="join">Join TEN Virtual Campus</button>
+                  <a href="https://discord.gg/A8zBusy"><button className="join">Join TEN Virtual Campus</button></a>
               
             
 
@@ -62,7 +62,7 @@ function Menu() {
                   <div className="column4 right4">
                         
                        <h2 className="say5">Entrepreneurship made Fun</h2>
-                       <button className="explore">Explore Here</button>
+                       <a href="https://www.entrepreneurshipnetwork.net/product-page/entrepreneurship"><button className="explore">Explore Here</button></a>
 
                   </div>
 
@@ -75,10 +75,10 @@ function Menu() {
                   </div>
                   <div className="column5 middle5">
                         
-                       <h2 className="say6">Digital Marketing</h2>
+                       <a href="https://www.entrepreneurshipnetwork.net/product-page/digital-marketing-1"><h2 className="say6">Digital Marketing</h2></a>
                        
 
-                       <button className="explore">Explore Here</button>
+                       <a href="https://www.entrepreneurshipnetwork.net/product-page/digital-marketing-1"><button className="explore">Explore Here</button></a>
 
                   </div>
                   <div className="column5 right5">
@@ -92,8 +92,8 @@ function Menu() {
                   
 
                   <div className="column6 left6">
-                       <h2 className="say6 sayy6">Product Management Like a Pro</h2>
-                       <button className="explore">Explore Here</button>
+                       <a href="https://www.entrepreneurshipnetwork.net/product-page/product-management-1"><h2 className="say6 sayy6">Product Management Like a Pro</h2></a>
+                       <a href="https://www.entrepreneurshipnetwork.net/product-page/product-management-1"><button className="explore">Explore Here</button></a>
                   </div>
                   <div className="column6 right6">
                         
@@ -153,7 +153,7 @@ We are experts in developing and testing hypotheses about learning difficulties 
             </div>
             <div className="img9">
                 <h2 className="say9">Power Of TEN Counsulting</h2>
-                <button className="explore">Explore Here</button>
+                <a href="https://www.consulting.entrepreneurshipnetwork.net/"><button className="explore">Explore Here</button></a>
 
             </div>
             

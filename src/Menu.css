@@ -356,6 +356,10 @@ p{
       margin-top: 200px;
       text-shadow: 4px 4px 2px rgb(248, 247, 227); 
   }
+  a{
+      color: black;
+      text-decoration-line: none;
+  }
  
 
 

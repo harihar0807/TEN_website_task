@@ -20,7 +20,7 @@ function Header() {
                   <h1><i>Network</i></h1>
             </div>
             <div className="column right">
-                     <button className="cart">cart</button>
+                     <a href="https://www.entrepreneurshipnetwork.net/cart-page"><button className="cart">cart</button></a>
                      <button className="login">Log in</button>
                      <input className="inpu" type="text"  placeholder="     Search Here" />
             </div>
